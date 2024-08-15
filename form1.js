@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }
          
         // Check if the mobile number field is wrong
-        if (mobileNumberInput.value !== "7523924027") {
+        if (mobileNumberInput.value !== "8595664856") {
             alert("mobile no. not registered With this passid .\nPlease try again");
             location.reload();
             return; // Stop the function execution here
